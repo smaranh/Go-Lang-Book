@@ -1,4 +1,4 @@
-# Learning Go lang
+# Learning Go
 
 ## Author
 
